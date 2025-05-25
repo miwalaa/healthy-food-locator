@@ -224,7 +224,7 @@ export default function Home() {
                   className="bg-white rounded shadow p-4 flex space-x-4"
                 >
                   <Image
-                    src="/assets/default-photo.png"
+                    src={photoUrl}
                     alt="default"
                     width={300}    // set to your desired dimensions
                     height={200}
