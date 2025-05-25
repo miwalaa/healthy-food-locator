@@ -132,7 +132,7 @@ export default function Home() {
         <div className="flex-1 space-y-4">
           {/* Input Box */}
           <div className="bg-gray-100 p-4 rounded shadow">
-            <p className="mb-2 text-center font-medium">This is where you input your location</p>
+            <p className="mb-2 text-center font-medium">Search by city or neighborhood...</p>
             <div className="flex gap-2">
               <input
                 type="text"
