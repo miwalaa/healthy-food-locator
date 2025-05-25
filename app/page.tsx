@@ -122,8 +122,8 @@ export default function Home() {
 
       {/* Title & Description */}
       <section className="text-center py-6">
-        <h1 className="text-3xl font-semibold">This is the title</h1>
-        <p className="text-gray-600">This is the description</p>
+        <h1 className="text-3xl font-semibold">Sehat Food</h1>
+        <p className="text-gray-600">Find healthy places near you</p>
       </section>
 
       {/* Main Content */}
