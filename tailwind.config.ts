@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        title: "var(--font-anton)",
+        body: "var(--font-poppins)"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

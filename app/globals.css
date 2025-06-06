@@ -13,3 +13,13 @@
     --foreground: #ededed;
   }
 }
+
+body {
+  background: #FAFAFA;
+}
+
+.green-button {
+  color: white;
+  background: linear-gradient(#B6E96F 20%, #2CA840);
+}
+
